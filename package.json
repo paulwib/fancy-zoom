@@ -1,0 +1,24 @@
+{
+    "name" : "fancyzoom",
+    "description" : "Zoomy JavaScript based loosely on Fancy Zoom by Cabel Sasser.",
+    "version" : "0.0.1",
+    "homepage" : "https://github.com/jnunemaker/fancy-zoom",
+    "author" : {
+        "name" : "https://github.com/jnunemaker"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/jnunemaker/fancy-zoom.git"
+    },
+    "main": "jquery/js/fancyzoom",
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "keywords": [
+        "jquery",
+        "ender",
+        "zoom",
+        "ui"
+    ]
+}
